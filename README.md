@@ -1,2 +1,2 @@
 # Telegram-bot_Home-Automation-Monitering
-Home Automation and Monitoring using Telegram chat bots
+Home Automation and Monitoring systum using Telegram chat bots
