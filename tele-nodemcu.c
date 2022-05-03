@@ -9,9 +9,9 @@
 const char* ssid = "iot";
 const char* password = "qwertyuiop!";
 
-#define BOTtoken "5305103337:AAGFMk06qbb_cL8CqFwESREUVs-F4wtM6N8"  //hmaut - @hmmaut_bot
-//#define CHAT_ID "946752377"
-#define CHAT_ID "827876499"
+#define BOTtoken "xxxxxx"  //token
+
+#define CHAT_ID "###" // telegram user id 
 
 #ifdef ESP8266
   X509List cert(TELEGRAM_CERTIFICATE_ROOT);
