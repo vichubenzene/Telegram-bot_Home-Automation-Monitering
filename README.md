@@ -1,5 +1,5 @@
 # Telegram-bot_Home-Automation-Monitering
-Home Automation and Monitoring systum using Telegram chat bots
+Home Automation and Monitoring system using Telegram chat bots
 
 
 > Submitted for academic Group project 6th sem 
